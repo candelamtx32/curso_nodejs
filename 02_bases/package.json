@@ -1,0 +1,17 @@
+{
+  "name": "02_bases",
+  "version": "0.0.1",
+  "description": "Esta es mi primera aplicación real de Node",
+  "license": "ISC",
+  "author": "Candela",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
