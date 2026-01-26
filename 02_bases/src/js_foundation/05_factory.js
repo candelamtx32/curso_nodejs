@@ -1,4 +1,4 @@
-const { getUUid, getAge } = require('../plugins/index.js')
+// const { getUUid, getAge } = require('../plugins/index.js')
 
 
 const buildMakePerson = ({ getUUid, getAge }) => {
@@ -12,7 +12,7 @@ const buildMakePerson = ({ getUUid, getAge }) => {
         }
     }
 }
-
+//const obj = {name: 'John', birthDate: '2005-08-17'}
 // const john = buildPerson(obj);
 // console.log(john);
 
