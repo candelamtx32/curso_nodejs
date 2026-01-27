@@ -4,7 +4,13 @@ const { getUUid, getAge } = require('./plugins')
 
 
 const getPokemonById = require('./js_foundation/06_promises');
-console.log(getPokemonById(4));
+// console.log(getPokemonById(4));
+
+getPokemonById(4)
+    .then((pokemon) => console.log({ pokemon }))
+    .catch((err) => console.log(err))
+    .finally(() => console.log('Finalmente'))
+
 
 
 // ! Referencia a ña función factory y uso
@@ -12,4 +18,3 @@ console.log(getPokemonById(4));
 // const obj = {name: 'John', birthDate: '2005-08-17'};
 // const john = makePerson(obj);
 // console.log(john);
-
