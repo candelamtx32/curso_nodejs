@@ -1,0 +1,17 @@
+{"level":"info","message":"Hola","service":"user-service"}
+{"level":"info","message":"Hola"}
+{"level":"info","message":"Hola"}
+{"level":"info","message":"Hola"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Hola"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Hola"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Hola"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Hola","timestamp":"2026-02-01T11:27:43.242Z"}
+{"level":"error","message":"error","timestamp":"2026-02-01T11:27:43.246Z"}
+{"level":"info","message":"Hola","timestamp":"2026-02-01T11:28:07.582Z"}
+{"level":"error","message":"error","timestamp":"2026-02-01T11:28:07.587Z"}
+{"level":"info","message":"Hola","timestamp":"2026-02-01T11:28:22.006Z"}
+{"level":"error","message":"error","timestamp":"2026-02-01T11:28:22.010Z"}
