@@ -1,4 +1,4 @@
-const { v4: uuid4 } = require('uuid')
+import { v4 as uuid } from 'uuid';
 
 // getUUid
 const getUUid = () => {
