@@ -1,4 +1,7 @@
 import fs from 'fs';
+import { yarg } from './config/plugins/yargs.plugin';
+
+console.log(yarg);
 
 //bucle
 const base: number = 5;
